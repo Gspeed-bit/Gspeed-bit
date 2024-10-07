@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Essen, Germany
 * 🖥️  See my portfolio at [danielayodeji-dev.netlify.app](http://danielayodeji-dev.netlify.app)
 * ✉️  You can contact me at [adeyeyedan@gmail.com](mailto:adeyeyedan@gmail.com)
-* 🚀  I'm currently working on [Spendie Wise](https://spend-wise-xi.vercel.app/)
+* 🚀  I'm currently working on [Arzt-Carehub](https://arzt-carehub.vercel.app/)
 * 🤝  I'm open to collaborating on I'm open to collaborating on exciting projects as a Full Stack Web Developer.
 
 ### Skills
