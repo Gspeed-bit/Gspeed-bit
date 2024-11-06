@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Essen, Germany
 * 🖥️  See my portfolio at [https://danieljscript.online](https://www.danieljscript.online/)
 * ✉️  You can contact me at [adeyeyeayodejidaniel@gmail.com](mailto:adeyeyeayodejidaniel@gmail.com)
-* 🚀  I'm currently working on [sigma-post](https://sigma-post.vercel.app/)
+* 🚀  I'm currently working on [TrendScript](https://trendscript.vercel.app/)
 * 🤝  I'm open to collaborating on I'm open to collaborating on exciting projects as a Full Stack Web Developer.
 
 ### Skills
